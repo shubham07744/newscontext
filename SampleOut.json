@@ -1,0 +1,136 @@
+{
+    "status": "ok",
+    "totalResults": 10,
+    "articles": [
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Mother of six-year-old who shot teacher jailed for two years",
+    "description": "Deja Taylor is jailed for two years after pleading guilty to felony child neglect over the incident.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-67722479",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/E1FA/production/_130805875_gettyimages-1246686493.jpg",
+    "publishedAt": "2023-12-16T06:37:16.7507749Z",
+    "content": "The mother of a six-year-old boy who shot his teacher in Virginia has been sentenced to two years in prison. \r\nDeja Taylor, 26, reached a plea deal with prosecutors to lessen the sentencing which cou… [+1675 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "The mountain wilderness where British teen Alex Batty lived for six years",
+    "description": "Since disappearing in 2017, the 17-year-old has reportedly been living in a commune near the French town of Quillan.",
+    "url": "http://www.bbc.co.uk/news/world-europe-67734560",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/13CBE/production/_132068018_quillan.jpg",
+    "publishedAt": "2023-12-16T05:37:15.2373607Z",
+    "content": "Nestled in the foothills of the Pyrenees, with the River Aude flowing gently through, Quillan could lay claim to one of the most picturesque scenes in all of France. \r\nIt was here that British 17-yea… [+6252 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Shipping firms pause Red Sea journeys over attacks",
+    "description": "Maersk temporarily stops its ship using the route - and a German company follows suit.",
+    "url": "http://www.bbc.co.uk/news/world-middle-east-67731853",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/EB6A/production/_132066206_maersk-gettyimages-166399159.jpg",
+    "publishedAt": "2023-12-16T02:07:16.9190971Z",
+    "content": "Danish shipping company Maersk has said it is pausing all journeys through the Red Sea.\r\nThe decision comes after a spate of attacks on vessels launched from a part of Yemen controlled by the Houthis… [+3300 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Israel hostages: IDF says it mistakenly killed three men held in Gaza",
+    "description": "The military said the three men were shot and killed by troops who were operating in northern Gaza.",
+    "url": "http://www.bbc.co.uk/news/world-middle-east-67732353",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/14D08/production/_132065258_untitled.png",
+    "publishedAt": "2023-12-16T02:07:15.7006512Z",
+    "content": "The Israeli military says it has mistakenly killed three hostages during its campaign in Gaza after they were mis-identified as a \"threat\". \r\nThey were named as Yotam Haim, 28, Samer Talalka, 22, and… [+3470 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "The Met to return looted ancient artworks to Thailand and Cambodia",
+    "description": "The works were taken by a rogue British art smuggler who died in 2020 while facing US looting charges.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-67735747",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/C3A6/production/_132068005_lk.2005.512_dp123319r1_25f.jpg",
+    "publishedAt": "2023-12-16T01:52:11.1035508Z",
+    "content": "New York's Metropolitan Museum will return 16 pieces of ancient art to Thailand and Cambodia after determining it had been illegally looted. \r\nThe repatriation was announced on Friday by the museum a… [+1846 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Boy, 11, dies after being hit by an ice hockey puck in the neck",
+    "description": "The child was critically injured after he was hit in the neck during ice hockey practice in Quebec.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-67706841",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/15104/production/_132067268_img_d1a499625bddea4840471363b9e22feb.jpg",
+    "publishedAt": "2023-12-16T00:52:12.795007Z",
+    "content": "An 11-year-old boy has died in the Canadian province of Quebec after he was struck in the neck with a puck during ice hockey practice.\r\nThe boy, whose name has not been released, was hit on Tuesday i… [+1908 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Lucy Williamson: Hamas support soars in West Bank - but full uprising can still be avoided",
+    "description": "Calls by Hamas for an uprising in the West Bank have come and gone, despite rising support for the group.",
+    "url": "http://www.bbc.co.uk/news/world-middle-east-67708116",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/9692/production/_132064583_breifingspromo-nc.png",
+    "publishedAt": "2023-12-16T00:37:12.1772711Z",
+    "content": "There was speculation over whether another uprising was brewing in the West Bank, even before the Hamas attacks on Israel in October.\r\nFrequent raids by the Israeli army, emboldened by a hard-right I… [+9015 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Biden impeachment: At-risk Republicans thread the needle in inquiry vote",
+    "description": "Republicans returning to politically-divided districts may have to defend voting for an impeachment probe",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-67716292",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/5A55/production/_132052132_gettyimages-1741170287-1.jpg",
+    "publishedAt": "2023-12-15T23:07:19.0295961Z",
+    "content": "All 221 Republicans backed a formal impeachment hearing of President Joe Biden in one of the last votes cast by the US House of Representatives before members travelled home for winter break. \r\nRepub… [+5599 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Perry death an accident caused by ketamine - coroner",
+    "description": "Actor Matthew Perry's death was accident caused by \"acute effects of ketamine\", LA medical examiner says.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-67734397",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/83B3/production/_115651733_breaking-large-promo-nc.png",
+    "publishedAt": "2023-12-15T21:52:18.3719086Z",
+    "content": "Actor Matthew Perry's death was an accident caused by the \"acute effects of ketamine\", medical officials in Los Angeles have confirmed.\r\nThe star was found unresponsive in the pool of his LA home in … [+592 chars]"
+    },
+    {
+    "source": {
+    "id": "bbc-news",
+    "name": "BBC News"
+    },
+    "author": "BBC News",
+    "title": "Rudy Giuliani must pay millions over false election claims",
+    "description": "Donald Trump's former personal lawyer was sued by an ex-poll worker he accused of vote tampering.",
+    "url": "http://www.bbc.co.uk/news/world-us-canada-67723332",
+    "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_news/83B3/production/_115651733_breaking-large-promo-nc.png",
+    "publishedAt": "2023-12-15T21:37:20.3722584Z",
+    "content": "Former US President Donald Trump's ex-personal lawyer, Rudy Giuliani, has been ordered to pay $148m (£116m) to two Georgia women over his false claims they tampered with votes in 2020.\r\nA judge had a… [+3420 chars]"
+    }
+    ]
+    }
