@@ -41,13 +41,15 @@ articles = [ {"source": {
     let url = `https://newsapi.org/v2/top-headlines?country=${this.props.country}&category=${this.props.category}&apiKey=64ac15be63ae49ac856cce7b84ae51ea&page=1&pageSize=${this.props.pageSize}`;
     this.setState({ loading: true });
     let data = await fetch(url);
-    let parsedData = await data.json();
-    // console.log(parsedData);
+    console.log(data)
+    let parsedData = await data.json(); 
+    console.log(parsedData);
     this.setState({
       articles: parsedData.articles,
       totalResults: parsedData.totalResults,
       loading: false,
-    });
+    }
+);
   }
   handlePrevclick = async () => {
     console.log("Previous");
@@ -71,7 +73,7 @@ articles = [ {"source": {
         Math.ceil(this.state.totalResults / this.props.pageSize)
       )
     ) {
-      let url = `https://newsapi.org/v2/top-headlines?country=${
+      let url =`https://newsapi.org/v2/top-headlines?country=${
         this.props.country
       }&category=${
         this.props.category
@@ -96,12 +98,12 @@ articles = [ {"source": {
         {this.state.loading && <Spinner />}
         <div className="row">
           {!this.state.loading &&
-            this.state.articles.map((element) => {
+            this.state.articles && this.state.articles.map((element) => {
               return (
                 <div className="col-md-4 p-2" key={element.url}>
                   <NewsItem
-                    title={element.title ? element.title : ""}
-                    description={element.description ? element.description : ""}
+                    title={element?element.title:""}
+                    description={element?element.description:""}
                     imageurl={element.urlToImage}
                     newsurl={element.url} author={element.author} date={element.publishedAt}
                   />
